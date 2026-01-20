@@ -1,0 +1,5 @@
+{
+  "name": "Contrôle-AI Expert",
+  "description": "Analyseur intelligent de plans techniques PDF pour la génération automatique de fiches de contrôle métrologique avec extraction des cotes critiques et tolérances géométriques.",
+  "requestFramePermissions": []
+}
